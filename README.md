@@ -30,11 +30,19 @@ Estilização responsiva e intuitiva, com layout limpo e navegação entre pági
 🧮 Parte 2: Análises com SQL
 Estruturação de um banco de dados local a partir da planilha fornecida.
 
-Elaboração de queries SQL para responder perguntas analíticas, como:
+Elaboração de queries SQL para responder as perguntas do case na seção:
 
 Qual campanha trouxe mais leads?
 
+
+<img width="530" height="297" alt="campanha-com-mais-lead" src="https://github.com/user-attachments/assets/ba77f64e-94e2-462e-a6da-12c376325c96" />
+
+
 Qual campanha teve o melhor CPL?
+
+
+<img width="601" height="470" alt="campanha-com-melhor-cpl" src="https://github.com/user-attachments/assets/ee950094-1347-471b-a868-5ddf0d676ad9" />
+
 
 Compartilhamento do schema da tabela, queries utilizadas e respostas obtidas.
 
