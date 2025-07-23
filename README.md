@@ -63,7 +63,7 @@ Organização dos dados em planilhas, com script pronto para reuso.
 🚀 Ferramentas Utilizadas
 Google Looker Studio
 
-Python (requests, pandas)
+Python (requests, pandas, matplotlib, pandas)
 
 SQLite e SQL
 
