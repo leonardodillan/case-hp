@@ -65,7 +65,7 @@ Google Looker Studio
 
 Python (requests, pandas, matplotlib, pandas)
 
-SQLite e SQL
+PostgreSQL
 
 GitHub
 
